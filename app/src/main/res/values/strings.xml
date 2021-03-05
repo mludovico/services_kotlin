@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">services</string>
+    <string name="description_text">Clique no copo cada vez que tiver tomado um copo de água para atualizar o contador</string>
+</resources>
