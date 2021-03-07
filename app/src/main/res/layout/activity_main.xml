@@ -15,7 +15,8 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        android:src="@drawable/ic_drink"/>
+        android:src="@drawable/ic_drink"
+        android:contentDescription="@string/cup_image_desc" />
 
     <TextView
         android:id="@+id/text_view"
